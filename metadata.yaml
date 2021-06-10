@@ -1,0 +1,27 @@
+_repo: The-Phantom-Regiment-or-Stories-of-Ours_65393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grant, James
+    birthdate: 1822
+    deathdate: 1887
+    gutenberg_agent_id: '8949'
+    url: http://www.gutenberg.org/2009/agents/8949
+    wikipedia: https://en.wikipedia.org/wiki/James_Grant_(1822%E2%80%931887)
+description: ''
+gutenberg_issued: '2021-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'British -- Foreign countries -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Phantom Regiment; or, Stories of "Ours"
+url: http://www.gutenberg.org/ebooks/65393
